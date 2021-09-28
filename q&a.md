@@ -43,12 +43,12 @@
 
    - 查看是淘宝平台还是阿里巴巴平台下单
    - 阿里巴巴平台，需要下载阿里巴巴app搜索商品（方法和淘宝一样）
-   - <img src="C:\Users\flyfish\AppData\Roaming\Typora\typora-user-images\image-20210928170518463.png" alt="image-20210928170518463" style="zoom:80%;" />
+   - <img src="./imgs/image-20210928170518463.png" alt="image-20210928170518463" style="zoom:80%;" />
 
 4. 商品找不到（五分钟以上找不到）
 
    - 仔细查看任务界面是否有搜索范围提醒
-   - <img src="C:\Users\flyfish\AppData\Roaming\Typora\typora-user-images\image-20210928171304489.png" alt="image-20210928171304489" style="zoom:50%;" />
+   - <img src="./imgs/image-20210928171304489.png" alt="image-20210928171304489" style="zoom:50%;" />
    - 按以上都找过之后，仍找不到发送淘宝号编号给我，并描述问题
 
 #### 超时
